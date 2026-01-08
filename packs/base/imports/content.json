@@ -5,10 +5,19 @@
     "title": "Módulo 1 — Postura & Coordenação",
     "subtitle": "Fundação para tocar com conforto, controle e consistência.",
     "cover": "",
-    "tags": ["postura", "coordenação", "rotina"],
+    "tags": [
+      "postura",
+      "coordenação",
+      "rotina"
+    ],
     "level": "Iniciante absoluto",
     "category": "Base comum",
-    "lessonIds": ["les_base_001", "les_base_002", "les_base_003", "les_base_004"],
+    "lessonIds": [
+      "les_base_001",
+      "les_base_002",
+      "les_base_003",
+      "les_base_004"
+    ],
     "order": 1,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -20,10 +29,19 @@
     "title": "Módulo 2 — Leitura & Ritmo no Piano",
     "subtitle": "Leitura prática, pulso, subdivisão e coordenação com metrônomo.",
     "cover": "",
-    "tags": ["leitura", "ritmo", "metrônomo"],
+    "tags": [
+      "leitura",
+      "ritmo",
+      "metrônomo"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
-    "lessonIds": ["les_base_005", "les_base_006", "les_base_007", "les_base_008"],
+    "lessonIds": [
+      "les_base_005",
+      "les_base_006",
+      "les_base_007",
+      "les_base_008"
+    ],
     "order": 2,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -35,10 +53,19 @@
     "title": "Módulo 3 — Acordes (Popular) & Campo Harmônico",
     "subtitle": "Formação de acordes, inversões e aplicações para acompanhar músicas.",
     "cover": "",
-    "tags": ["acordes", "inversões", "harmonia"],
+    "tags": [
+      "acordes",
+      "inversões",
+      "harmonia"
+    ],
     "level": "Iniciante",
     "category": "Piano Popular",
-    "lessonIds": ["les_pop_001", "les_pop_002", "les_pop_003", "les_pop_004"],
+    "lessonIds": [
+      "les_pop_001",
+      "les_pop_002",
+      "les_pop_003",
+      "les_pop_004"
+    ],
     "order": 3,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -50,10 +77,18 @@
     "title": "Módulo 4 — Ritmos & Acompanhamento (Popular)",
     "subtitle": "Padrões de acompanhamento, groove, mão esquerda funcional e voicings simples.",
     "cover": "",
-    "tags": ["levadas", "groove", "acompanhamento"],
+    "tags": [
+      "levadas",
+      "groove",
+      "acompanhamento"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
-    "lessonIds": ["les_pop_005", "les_pop_006", "les_pop_007"],
+    "lessonIds": [
+      "les_pop_005",
+      "les_pop_006",
+      "les_pop_007"
+    ],
     "order": 4,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -65,10 +100,19 @@
     "title": "Módulo 5 — Escalas, Arpejos & Técnica (Erudito)",
     "subtitle": "Dedilhado, uniformidade, independência e som limpo.",
     "cover": "",
-    "tags": ["escalas", "arpejos", "técnica"],
+    "tags": [
+      "escalas",
+      "arpejos",
+      "técnica"
+    ],
     "level": "Iniciante",
     "category": "Piano Erudito",
-    "lessonIds": ["les_eru_001", "les_eru_002", "les_eru_003", "les_eru_004"],
+    "lessonIds": [
+      "les_eru_001",
+      "les_eru_002",
+      "les_eru_003",
+      "les_eru_004"
+    ],
     "order": 5,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -80,10 +124,18 @@
     "title": "Módulo 6 — Estudos & Interpretação (Erudito)",
     "subtitle": "Como estudar peças, fraseado, dinâmica, articulação e musicalidade.",
     "cover": "",
-    "tags": ["interpretação", "dinâmica", "fraseado"],
+    "tags": [
+      "interpretação",
+      "dinâmica",
+      "fraseado"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
-    "lessonIds": ["les_eru_005", "les_eru_006", "les_eru_007"],
+    "lessonIds": [
+      "les_eru_005",
+      "les_eru_006",
+      "les_eru_007"
+    ],
     "order": 6,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -95,23 +147,33 @@
     "title": "Módulo 7 — Rotina Inteligente & Repertório Guiado",
     "subtitle": "Plano semanal simples e eficiente: técnica + leitura + harmonia + repertório.",
     "cover": "",
-    "tags": ["rotina", "repertório", "planejamento"],
+    "tags": [
+      "rotina",
+      "repertório",
+      "planejamento"
+    ],
     "level": "Avançado",
     "category": "Base comum",
-    "lessonIds": ["les_mix_001", "les_mix_002", "les_mix_003"],
+    "lessonIds": [
+      "les_mix_001",
+      "les_mix_002",
+      "les_mix_003"
+    ],
     "order": 7,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_001",
     "type": "lesson",
     "title": "Postura no piano: banco, altura e relaxamento",
     "subtitle": "Como sentar e alinhar o corpo para tocar sem tensão.",
     "cover": "",
-    "tags": ["postura", "ergonomia"],
+    "tags": [
+      "postura",
+      "ergonomia"
+    ],
     "level": "Iniciante absoluto",
     "category": "Base comum",
     "xp": 20,
@@ -133,7 +195,11 @@
     "title": "Mapa do teclado: grupos de 2 e 3 pretas",
     "subtitle": "Localização rápida de Dó, Fá e demais notas.",
     "cover": "",
-    "tags": ["teclado", "notas", "orientação"],
+    "tags": [
+      "teclado",
+      "notas",
+      "orientação"
+    ],
     "level": "Iniciante absoluto",
     "category": "Base comum",
     "xp": 20,
@@ -154,7 +220,11 @@
     "title": "Coordenação inicial: mãos separadas e juntas",
     "subtitle": "Como treinar sem travar: lento, consciente e consistente.",
     "cover": "",
-    "tags": ["coordenação", "mãos", "rotina"],
+    "tags": [
+      "coordenação",
+      "mãos",
+      "rotina"
+    ],
     "level": "Iniciante absoluto",
     "category": "Base comum",
     "xp": 25,
@@ -176,7 +246,11 @@
     "title": "Toque: legato x staccato (controle do som)",
     "subtitle": "Dois mundos de articulação para expressividade.",
     "cover": "",
-    "tags": ["toque", "articulação", "som"],
+    "tags": [
+      "toque",
+      "articulação",
+      "som"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 25,
@@ -191,14 +265,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_005",
     "type": "lesson",
     "title": "Leitura: pauta, claves e notas básicas",
     "subtitle": "Como enxergar a pauta sem medo.",
     "cover": "",
-    "tags": ["leitura", "pauta", "claves"],
+    "tags": [
+      "leitura",
+      "pauta",
+      "claves"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 25,
@@ -219,7 +296,11 @@
     "title": "Pulso e subdivisão: o metrônomo como amigo",
     "subtitle": "Como estudar tempo sem travar a musicalidade.",
     "cover": "",
-    "tags": ["ritmo", "metrônomo", "subdivisão"],
+    "tags": [
+      "ritmo",
+      "metrônomo",
+      "subdivisão"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 25,
@@ -240,7 +321,11 @@
     "title": "Coordenação rítmica: mão esquerda simples + mão direita simples",
     "subtitle": "Primeiro passo para independência das mãos.",
     "cover": "",
-    "tags": ["coordenação", "independência", "ritmo"],
+    "tags": [
+      "coordenação",
+      "independência",
+      "ritmo"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 30,
@@ -261,7 +346,11 @@
     "title": "Leitura aplicada: padrão de 5 dedos",
     "subtitle": "Leitura prática sem saltos grandes.",
     "cover": "",
-    "tags": ["leitura", "5 dedos", "prática"],
+    "tags": [
+      "leitura",
+      "5 dedos",
+      "prática"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 30,
@@ -276,14 +365,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_pop_001",
     "type": "lesson",
     "title": "Triades: maior e menor (formação de acordes)",
     "subtitle": "A base do piano popular: construir acordes com segurança.",
     "cover": "",
-    "tags": ["acordes", "tríades", "harmonia"],
+    "tags": [
+      "acordes",
+      "tríades",
+      "harmonia"
+    ],
     "level": "Iniciante",
     "category": "Piano Popular",
     "xp": 25,
@@ -304,7 +396,11 @@
     "title": "Inversões: tocar acordes sem saltar",
     "subtitle": "Conexão suave entre acordes (voice leading básico).",
     "cover": "",
-    "tags": ["inversões", "condução", "voicings"],
+    "tags": [
+      "inversões",
+      "condução",
+      "voicings"
+    ],
     "level": "Iniciante",
     "category": "Piano Popular",
     "xp": 30,
@@ -325,7 +421,11 @@
     "title": "Acordes com sétima: cor e função",
     "subtitle": "Dominantes e sonoridade moderna no acompanhamento.",
     "cover": "",
-    "tags": ["7ª", "dominante", "harmonia"],
+    "tags": [
+      "7ª",
+      "dominante",
+      "harmonia"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 35,
@@ -346,7 +446,11 @@
     "title": "Mão esquerda funcional: baixo + acorde",
     "subtitle": "Acompanhamento simples e musical para começar repertório.",
     "cover": "",
-    "tags": ["mão esquerda", "baixo", "acompanhamento"],
+    "tags": [
+      "mão esquerda",
+      "baixo",
+      "acompanhamento"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 35,
@@ -361,14 +465,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_pop_005",
     "type": "lesson",
     "title": "Levada pop: semínimas e colcheias no acompanhamento",
     "subtitle": "Padrões fáceis para tocar músicas rapidamente.",
     "cover": "",
-    "tags": ["levada", "pop", "ritmo"],
+    "tags": [
+      "levada",
+      "pop",
+      "ritmo"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 35,
@@ -389,7 +496,11 @@
     "title": "Bossa/MPB: sensação de balanço (bem básico)",
     "subtitle": "Primeira aproximação de groove brasileiro no piano.",
     "cover": "",
-    "tags": ["bossa", "mpb", "groove"],
+    "tags": [
+      "bossa",
+      "mpb",
+      "groove"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 40,
@@ -410,7 +521,11 @@
     "title": "Ouvido no popular: reconhecer I–V–vi–IV",
     "subtitle": "Treino de audição para progressões comuns.",
     "cover": "",
-    "tags": ["ouvido", "progressões", "repertório"],
+    "tags": [
+      "ouvido",
+      "progressões",
+      "repertório"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 40,
@@ -425,14 +540,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_001",
     "type": "lesson",
     "title": "Escala de Dó maior: dedilhado e uniformidade",
     "subtitle": "Fundação técnica para escalas.",
     "cover": "",
-    "tags": ["escalas", "dedilhado", "técnica"],
+    "tags": [
+      "escalas",
+      "dedilhado",
+      "técnica"
+    ],
     "level": "Iniciante",
     "category": "Piano Erudito",
     "xp": 30,
@@ -453,7 +571,11 @@
     "title": "Arpejo básico: tríade em movimento",
     "subtitle": "Controle do desenho e do som em arpejos.",
     "cover": "",
-    "tags": ["arpejo", "técnica", "controle"],
+    "tags": [
+      "arpejo",
+      "técnica",
+      "controle"
+    ],
     "level": "Iniciante",
     "category": "Piano Erudito",
     "xp": 30,
@@ -474,7 +596,11 @@
     "title": "Hanon simplificado: 5 minutos bem feitos",
     "subtitle": "Técnica sem exagero: precisão e relaxamento.",
     "cover": "",
-    "tags": ["hanon", "técnica", "rotina"],
+    "tags": [
+      "hanon",
+      "técnica",
+      "rotina"
+    ],
     "level": "Iniciante",
     "category": "Piano Erudito",
     "xp": 35,
@@ -495,7 +621,11 @@
     "title": "Dinâmica: pianissimo ao forte sem perder controle",
     "subtitle": "Som bonito em qualquer intensidade.",
     "cover": "",
-    "tags": ["dinâmica", "controle", "som"],
+    "tags": [
+      "dinâmica",
+      "controle",
+      "som"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -510,14 +640,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_005",
     "type": "lesson",
     "title": "Como estudar uma peça: fragmentos, repetição inteligente",
     "subtitle": "Estratégia erudita: qualidade > quantidade.",
     "cover": "",
-    "tags": ["estudo", "peça", "metodologia"],
+    "tags": [
+      "estudo",
+      "peça",
+      "metodologia"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -538,7 +671,11 @@
     "title": "Fraseado e respiração musical",
     "subtitle": "Como dar sentido às notas.",
     "cover": "",
-    "tags": ["fraseado", "musicalidade", "interpretação"],
+    "tags": [
+      "fraseado",
+      "musicalidade",
+      "interpretação"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -559,7 +696,11 @@
     "title": "Pedal direito (sustain): uso limpo",
     "subtitle": "Evite borrão: pedal com intenção.",
     "cover": "",
-    "tags": ["pedal", "sustain", "limpeza"],
+    "tags": [
+      "pedal",
+      "sustain",
+      "limpeza"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -574,14 +715,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_mix_001",
     "type": "lesson",
     "title": "Rotina semanal (30 minutos): o básico que funciona",
     "subtitle": "Plano simples para consistência (sem travar).",
     "cover": "",
-    "tags": ["rotina", "planejamento", "consistência"],
+    "tags": [
+      "rotina",
+      "planejamento",
+      "consistência"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 45,
@@ -602,7 +746,11 @@
     "title": "Como aumentar velocidade sem perder controle",
     "subtitle": "Aceleração segura: metrônomo e micro-metas.",
     "cover": "",
-    "tags": ["velocidade", "metrônomo", "técnica"],
+    "tags": [
+      "velocidade",
+      "metrônomo",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 45,
@@ -623,7 +771,11 @@
     "title": "Repertório guiado: como escolher peças/músicas certas",
     "subtitle": "Nem fácil demais, nem difícil demais.",
     "cover": "",
-    "tags": ["repertório", "escolha", "evolução"],
+    "tags": [
+      "repertório",
+      "escolha",
+      "evolução"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 45,
@@ -638,20 +790,26 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "mis_daily_001",
     "type": "mission",
     "title": "5 min — Técnica (Hanon simplificado)",
     "subtitle": "Precisão + relaxamento. Lento e limpo.",
     "cover": "",
-    "tags": ["técnica", "hanon"],
+    "tags": [
+      "técnica",
+      "hanon"
+    ],
     "level": "Iniciante",
     "category": "Piano Erudito",
     "xp": 15,
     "repeat": "daily",
     "missionKind": "Técnica",
-    "steps": ["Escolha 1 padrão simples", "Toque lento e uniforme", "Pare se tensionar e recomece leve"],
+    "steps": [
+      "Escolha 1 padrão simples",
+      "Toque lento e uniforme",
+      "Pare se tensionar e recomece leve"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -662,13 +820,20 @@
     "title": "5 min — Leitura (uma nota por vez)",
     "subtitle": "Consistência diária para leitura fluente.",
     "cover": "",
-    "tags": ["leitura", "pauta"],
+    "tags": [
+      "leitura",
+      "pauta"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 15,
     "repeat": "daily",
     "missionKind": "Leitura",
-    "steps": ["Leia devagar", "Mantenha pulso simples", "Evite corrigir correndo"],
+    "steps": [
+      "Leia devagar",
+      "Mantenha pulso simples",
+      "Evite corrigir correndo"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -679,13 +844,20 @@
     "title": "5 min — Ouvido (I–V–vi–IV)",
     "subtitle": "Toque, cante a fundamental e transpõe.",
     "cover": "",
-    "tags": ["ouvido", "progressões"],
+    "tags": [
+      "ouvido",
+      "progressões"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 20,
     "repeat": "daily",
     "missionKind": "Ouvido",
-    "steps": ["Toque a progressão", "Cante a fundamental", "Faça em outra tonalidade"],
+    "steps": [
+      "Toque a progressão",
+      "Cante a fundamental",
+      "Faça em outra tonalidade"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -696,25 +868,34 @@
     "title": "5 min — Repertório (trecho curto)",
     "subtitle": "Trecho pequeno, repetição consciente.",
     "cover": "",
-    "tags": ["repertório", "trechos"],
+    "tags": [
+      "repertório",
+      "trechos"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 15,
     "repeat": "daily",
     "missionKind": "Repertório",
-    "steps": ["Escolha 1–2 compassos", "Repita lento 5 vezes", "Junte e repita mais 3 vezes"],
+    "steps": [
+      "Escolha 1–2 compassos",
+      "Repita lento 5 vezes",
+      "Junte e repita mais 3 vezes"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "lib_base_001",
     "type": "library",
     "title": "Postura e ergonomia: guia rápido",
     "subtitle": "Conforto = consistência. Ajuste antes de estudar.",
     "cover": "",
-    "tags": ["postura", "saúde"],
+    "tags": [
+      "postura",
+      "saúde"
+    ],
     "level": "Iniciante absoluto",
     "category": "Base comum",
     "body": "# Postura e ergonomia\n\n## Checklist\n- Banco na altura confortável\n- Ombros soltos\n- Punho neutro\n- Respiração natural\n\n## Dica prática\nSe após 5 minutos você sente dor, **ajuste a postura** e reduza a tensão.\n",
@@ -728,7 +909,11 @@
     "title": "Voicings simples no popular",
     "subtitle": "Como deixar acordes mais bonitos sem complicar.",
     "cover": "",
-    "tags": ["voicings", "popular", "acordes"],
+    "tags": [
+      "voicings",
+      "popular",
+      "acordes"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "body": "# Voicings simples\n\n## Ideia\nNão precisa tocar todas as notas do acorde.\n\n## Comece com\n- 3ª e 7ª (quando houver)\n- ou tríade com inversões próximas\n\nIsso deixa o som mais claro e profissional.\n",
@@ -742,7 +927,11 @@
     "title": "Pedal sustain sem borrão",
     "subtitle": "Troca consciente e ouvido atento.",
     "cover": "",
-    "tags": ["pedal", "limpeza", "interpretação"],
+    "tags": [
+      "pedal",
+      "limpeza",
+      "interpretação"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "body": "# Pedal sem borrão\n\n## Regra\nPedal acompanha a **harmonia**.\n\n## Troca limpa\n1. Abaixa no acorde\n2. Troca a harmonia\n3. Levanta e abaixa rapidamente (quase junto)\n\nSe embolou, reduza o tempo do pedal.\n",
@@ -756,7 +945,11 @@
     "title": "Rotina inteligente de estudo",
     "subtitle": "Como evoluir com pouco tempo (sem travar).",
     "cover": "",
-    "tags": ["rotina", "metas", "consistência"],
+    "tags": [
+      "rotina",
+      "metas",
+      "consistência"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "body": "# Rotina inteligente\n\n## Estrutura simples\n- Técnica (5–10 min)\n- Leitura (5–10 min)\n- Repertório (10–15 min)\n\n## Metas\n- 1 meta semanal clara\n- 1 micro-meta por dia\n\n## O segredo\nConsistência > intensidade.\n",
@@ -764,17 +957,28 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-  [
   {
     "id": "trk_base_003",
     "type": "track",
     "title": "Módulo 8 — Teoria Aplicada no Teclado (Fundamentos)",
     "subtitle": "Intervalos, construção de escalas, tríades e tétrades direto no piano.",
     "cover": "",
-    "tags": ["teoria", "intervalos", "escalas", "acordes"],
+    "tags": [
+      "teoria",
+      "intervalos",
+      "escalas",
+      "acordes"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
-    "lessonIds": ["les_base_009", "les_base_010", "les_base_011", "les_base_012", "les_base_013", "les_base_014"],
+    "lessonIds": [
+      "les_base_009",
+      "les_base_010",
+      "les_base_011",
+      "les_base_012",
+      "les_base_013",
+      "les_base_014"
+    ],
     "order": 8,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -786,10 +990,20 @@
     "title": "Módulo 9 — Leitura Avançando (Sight-reading real)",
     "subtitle": "Leitura progressiva, padrões, saltos, vozes e ritmo com método.",
     "cover": "",
-    "tags": ["leitura", "sight-reading", "ritmo"],
+    "tags": [
+      "leitura",
+      "sight-reading",
+      "ritmo"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
-    "lessonIds": ["les_base_015", "les_base_016", "les_base_017", "les_base_018", "les_base_019"],
+    "lessonIds": [
+      "les_base_015",
+      "les_base_016",
+      "les_base_017",
+      "les_base_018",
+      "les_base_019"
+    ],
     "order": 9,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -801,10 +1015,22 @@
     "title": "Módulo 10 — Harmonia Popular Completa (Tríades → Tétrades → Extensões)",
     "subtitle": "Montagem de acordes, funções harmônicas e prática em progressões reais.",
     "cover": "",
-    "tags": ["harmonia", "tétrades", "tensões", "II-V-I"],
+    "tags": [
+      "harmonia",
+      "tétrades",
+      "tensões",
+      "II-V-I"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
-    "lessonIds": ["les_pop_008", "les_pop_009", "les_pop_010", "les_pop_011", "les_pop_012", "les_pop_013"],
+    "lessonIds": [
+      "les_pop_008",
+      "les_pop_009",
+      "les_pop_010",
+      "les_pop_011",
+      "les_pop_012",
+      "les_pop_013"
+    ],
     "order": 10,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -816,10 +1042,21 @@
     "title": "Módulo 11 — Acompanhamentos (Pop, Ballad, Gospel, Samba, Jazz básico)",
     "subtitle": "Levadas, mão esquerda, condução, dinâmica e arranjo simples.",
     "cover": "",
-    "tags": ["acompanhamento", "levadas", "groove", "voicings"],
+    "tags": [
+      "acompanhamento",
+      "levadas",
+      "groove",
+      "voicings"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
-    "lessonIds": ["les_pop_014", "les_pop_015", "les_pop_016", "les_pop_017", "les_pop_018"],
+    "lessonIds": [
+      "les_pop_014",
+      "les_pop_015",
+      "les_pop_016",
+      "les_pop_017",
+      "les_pop_018"
+    ],
     "order": 11,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -831,10 +1068,22 @@
     "title": "Módulo 12 — Escalas (Todas) e Dedilhados (Sistema)",
     "subtitle": "Maior, menor natural/harmônica/melódica, cromática e por tons inteiros.",
     "cover": "",
-    "tags": ["escalas", "dedilhado", "técnica", "metrônomo"],
+    "tags": [
+      "escalas",
+      "dedilhado",
+      "técnica",
+      "metrônomo"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
-    "lessonIds": ["les_eru_008", "les_eru_009", "les_eru_010", "les_eru_011", "les_eru_012", "les_eru_013"],
+    "lessonIds": [
+      "les_eru_008",
+      "les_eru_009",
+      "les_eru_010",
+      "les_eru_011",
+      "les_eru_012",
+      "les_eru_013"
+    ],
     "order": 12,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
@@ -846,23 +1095,37 @@
     "title": "Módulo 13 — Técnica Erudita Completa (Independência, Toques, Estudos)",
     "subtitle": "Independência, trilos, notas repetidas, escalas em terças/sextas e musicalidade.",
     "cover": "",
-    "tags": ["técnica", "independência", "toque", "estudos"],
+    "tags": [
+      "técnica",
+      "independência",
+      "toque",
+      "estudos"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
-    "lessonIds": ["les_eru_014", "les_eru_015", "les_eru_016", "les_eru_017", "les_eru_018"],
+    "lessonIds": [
+      "les_eru_014",
+      "les_eru_015",
+      "les_eru_016",
+      "les_eru_017",
+      "les_eru_018"
+    ],
     "order": 13,
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_009",
     "type": "lesson",
     "title": "Intervalos no teclado: medir e ouvir",
     "subtitle": "2ª a 8ª, maior/menor/perfeito — com treino auditivo simples.",
     "cover": "",
-    "tags": ["intervalos", "ouvido", "teoria"],
+    "tags": [
+      "intervalos",
+      "ouvido",
+      "teoria"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 25,
@@ -883,7 +1146,11 @@
     "title": "Como construir qualquer escala maior",
     "subtitle": "Fórmula T–T–S–T–T–T–S aplicada no teclado.",
     "cover": "",
-    "tags": ["escala maior", "teoria", "tonalidade"],
+    "tags": [
+      "escala maior",
+      "teoria",
+      "tonalidade"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 25,
@@ -904,7 +1171,11 @@
     "title": "Tríades: maior, menor, diminuta e aumentada",
     "subtitle": "Fórmulas e construção em qualquer tonalidade.",
     "cover": "",
-    "tags": ["tríades", "montagem", "teoria"],
+    "tags": [
+      "tríades",
+      "montagem",
+      "teoria"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "xp": 30,
@@ -925,7 +1196,11 @@
     "title": "Tétrades (acordes de 7ª): as 5 famílias essenciais",
     "subtitle": "Maj7, m7, 7, m7b5, dim7 — construção e som.",
     "cover": "",
-    "tags": ["tétrades", "7ª", "harmonia"],
+    "tags": [
+      "tétrades",
+      "7ª",
+      "harmonia"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 35,
@@ -946,7 +1221,11 @@
     "title": "Campo harmônico maior: graus e funções (T–S–D)",
     "subtitle": "Entenda por que os acordes “andam” e resolvem.",
     "cover": "",
-    "tags": ["campo harmônico", "função", "harmonia"],
+    "tags": [
+      "campo harmônico",
+      "função",
+      "harmonia"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 35,
@@ -967,7 +1246,11 @@
     "title": "Círculo das quintas: tonalidades e armaduras",
     "subtitle": "Como entender sustenidos/bemóis e transpor com clareza.",
     "cover": "",
-    "tags": ["círculo das quintas", "armadura", "transposição"],
+    "tags": [
+      "círculo das quintas",
+      "armadura",
+      "transposição"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 30,
@@ -982,14 +1265,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_015",
     "type": "lesson",
     "title": "Sight-reading: regra do “ritmo primeiro”",
     "subtitle": "Ler sem parar: mantenha o pulso e aceite pequenos erros.",
     "cover": "",
-    "tags": ["sight-reading", "ritmo", "método"],
+    "tags": [
+      "sight-reading",
+      "ritmo",
+      "método"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 35,
@@ -1010,7 +1296,11 @@
     "title": "Leitura por padrões: escalas, tríades e intervalos",
     "subtitle": "Aprenda a enxergar “desenhos musicais” na pauta.",
     "cover": "",
-    "tags": ["leitura", "padrões", "pauta"],
+    "tags": [
+      "leitura",
+      "padrões",
+      "pauta"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 35,
@@ -1031,7 +1321,11 @@
     "title": "Leitura com duas vozes: melodia + baixo",
     "subtitle": "A base de tocar música real (e acompanhar).",
     "cover": "",
-    "tags": ["leitura", "duas vozes", "coordenação"],
+    "tags": [
+      "leitura",
+      "duas vozes",
+      "coordenação"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 40,
@@ -1052,7 +1346,11 @@
     "title": "Saltos no teclado: como errar menos",
     "subtitle": "Olhar alvo, antecipar e usar referências (pretas/ancoras).",
     "cover": "",
-    "tags": ["saltos", "técnica", "precisão"],
+    "tags": [
+      "saltos",
+      "técnica",
+      "precisão"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 35,
@@ -1073,7 +1371,11 @@
     "title": "Ritmos: síncope e acentuação (sem travar)",
     "subtitle": "Treino prático de síncopes e acentos no piano.",
     "cover": "",
-    "tags": ["ritmo", "síncope", "acentos"],
+    "tags": [
+      "ritmo",
+      "síncope",
+      "acentos"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 40,
@@ -1088,14 +1390,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_pop_008",
     "type": "lesson",
     "title": "Funções harmônicas no popular: Tônica, Subdominante, Dominante",
     "subtitle": "Entenda a lógica por trás das músicas populares.",
     "cover": "",
-    "tags": ["função", "harmonia", "popular"],
+    "tags": [
+      "função",
+      "harmonia",
+      "popular"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 35,
@@ -1116,7 +1421,11 @@
     "title": "Tétrades no popular: Maj7, m7, 7 (uso musical)",
     "subtitle": "Como usar sem “soar jazz demais”.",
     "cover": "",
-    "tags": ["tétrades", "popular", "voicings"],
+    "tags": [
+      "tétrades",
+      "popular",
+      "voicings"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 40,
@@ -1137,7 +1446,11 @@
     "title": "Montagem de acordes: da escala para o acorde (sempre funciona)",
     "subtitle": "Empilhar 3ª: 1–3–5–7–9–11–13.",
     "cover": "",
-    "tags": ["montagem", "acordes", "tensões"],
+    "tags": [
+      "montagem",
+      "acordes",
+      "tensões"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 45,
@@ -1158,7 +1471,11 @@
     "title": "Voicings básicos: guia de 3ª e 7ª (shell voicings)",
     "subtitle": "Soa profissional com poucas notas.",
     "cover": "",
-    "tags": ["voicings", "shell", "popular"],
+    "tags": [
+      "voicings",
+      "shell",
+      "popular"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 45,
@@ -1179,7 +1496,11 @@
     "title": "Progressões essenciais: I–V–vi–IV, vi–IV–I–V, ii–V–I",
     "subtitle": "Treino em 3 tonalidades com transposição guiada.",
     "cover": "",
-    "tags": ["progressões", "transposição", "prática"],
+    "tags": [
+      "progressões",
+      "transposição",
+      "prática"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 45,
@@ -1200,7 +1521,12 @@
     "title": "Modos no popular (sem complicar): Dórico, Mixolídio, Lídio",
     "subtitle": "Como usar cores modais em riffs e harmonias.",
     "cover": "",
-    "tags": ["modos", "dórico", "mixolídio", "lídio"],
+    "tags": [
+      "modos",
+      "dórico",
+      "mixolídio",
+      "lídio"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 50,
@@ -1215,14 +1541,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_pop_014",
     "type": "lesson",
     "title": "Acompanhamento Ballad: arpejos e preenchimentos",
     "subtitle": "Como acompanhar baladas com musicalidade e dinâmica.",
     "cover": "",
-    "tags": ["ballad", "arpejo", "dinâmica"],
+    "tags": [
+      "ballad",
+      "arpejo",
+      "dinâmica"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 40,
@@ -1243,7 +1572,11 @@
     "title": "Pop moderno: drop de acordes (drop-2 básico) no teclado",
     "subtitle": "Abrir voicings para soar grande sem ficar embolado.",
     "cover": "",
-    "tags": ["voicings", "aberturas", "arranjo"],
+    "tags": [
+      "voicings",
+      "aberturas",
+      "arranjo"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 50,
@@ -1264,7 +1597,11 @@
     "title": "Gospel (básico): cadências, passing chords e movimento",
     "subtitle": "Como criar sensação de caminhada harmônica.",
     "cover": "",
-    "tags": ["gospel", "cadência", "passing chords"],
+    "tags": [
+      "gospel",
+      "cadência",
+      "passing chords"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 55,
@@ -1285,7 +1622,11 @@
     "title": "Samba/MPB: mão esquerda (baixo) + mão direita (acorde quebrado)",
     "subtitle": "Base brasileira consistente, sem exagero.",
     "cover": "",
-    "tags": ["samba", "mpb", "groove"],
+    "tags": [
+      "samba",
+      "mpb",
+      "groove"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 45,
@@ -1306,7 +1647,11 @@
     "title": "Jazz básico no teclado: II–V–I com voz guiada",
     "subtitle": "Condução de vozes para soar elegante e conectado.",
     "cover": "",
-    "tags": ["jazz", "II-V-I", "voice leading"],
+    "tags": [
+      "jazz",
+      "II-V-I",
+      "voice leading"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 55,
@@ -1321,14 +1666,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_008",
     "type": "lesson",
     "title": "Sistema de escalas: como estudar TODAS sem se perder",
     "subtitle": "Ciclo, dedilhado, metrônomo e rotina progressiva.",
     "cover": "",
-    "tags": ["escalas", "sistema", "rotina"],
+    "tags": [
+      "escalas",
+      "sistema",
+      "rotina"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -1349,7 +1697,11 @@
     "title": "Escalas menores: natural, harmônica, melódica (diferenças)",
     "subtitle": "Quando usar cada uma e como ouvir a cor.",
     "cover": "",
-    "tags": ["menor", "harmônica", "melódica"],
+    "tags": [
+      "menor",
+      "harmônica",
+      "melódica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 45,
@@ -1370,7 +1722,11 @@
     "title": "Escala cromática: igualdade e relaxamento",
     "subtitle": "Controle de dedos e som uniforme.",
     "cover": "",
-    "tags": ["cromática", "técnica", "uniformidade"],
+    "tags": [
+      "cromática",
+      "técnica",
+      "uniformidade"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -1391,7 +1747,11 @@
     "title": "Escala por tons inteiros (whole tone): cor impressionista",
     "subtitle": "Treino técnico e sonoridade moderna.",
     "cover": "",
-    "tags": ["tons inteiros", "impressionismo", "cor"],
+    "tags": [
+      "tons inteiros",
+      "impressionismo",
+      "cor"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 50,
@@ -1412,7 +1772,11 @@
     "title": "Arpejos completos: maior, menor, diminuto, dominante",
     "subtitle": "Organização e clareza para tocar arpejos em qualquer tom.",
     "cover": "",
-    "tags": ["arpejos", "tétrades", "técnica"],
+    "tags": [
+      "arpejos",
+      "tétrades",
+      "técnica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 45,
@@ -1433,7 +1797,11 @@
     "title": "Escalas em terças (introdução): independência real",
     "subtitle": "Treino avançado com muita calma e beleza de som.",
     "cover": "",
-    "tags": ["terças", "independência", "técnica"],
+    "tags": [
+      "terças",
+      "independência",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 55,
@@ -1448,14 +1816,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_014",
     "type": "lesson",
     "title": "Independência dos dedos: controle sem rigidez",
     "subtitle": "Como treinar independência sem se machucar.",
     "cover": "",
-    "tags": ["independência", "técnica", "controle"],
+    "tags": [
+      "independência",
+      "técnica",
+      "controle"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 55,
@@ -1476,7 +1847,11 @@
     "title": "Trilos e ornamentos: preparação e método",
     "subtitle": "Como fazer trilos limpos, com mínima tensão.",
     "cover": "",
-    "tags": ["trilo", "ornamentos", "técnica"],
+    "tags": [
+      "trilo",
+      "ornamentos",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -1497,7 +1872,11 @@
     "title": "Notas repetidas: economia de movimento",
     "subtitle": "Como repetir sem cansar e sem bater.",
     "cover": "",
-    "tags": ["notas repetidas", "economia", "técnica"],
+    "tags": [
+      "notas repetidas",
+      "economia",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 55,
@@ -1518,7 +1897,11 @@
     "title": "Articulação avançada: legato de dedos x legato de pedal",
     "subtitle": "Como criar linhas cantáveis e limpas.",
     "cover": "",
-    "tags": ["articulação", "legato", "pedal"],
+    "tags": [
+      "articulação",
+      "legato",
+      "pedal"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -1539,7 +1922,11 @@
     "title": "Interpretação: direção, clímax e forma",
     "subtitle": "Como tocar com intenção (e não só notas).",
     "cover": "",
-    "tags": ["interpretação", "forma", "clímax"],
+    "tags": [
+      "interpretação",
+      "forma",
+      "clímax"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -1554,20 +1941,27 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "mis_daily_005",
     "type": "mission",
     "title": "7 min — Escalas (1 maior + 1 menor)",
     "subtitle": "Mãos separadas e depois juntas (bem lento).",
     "cover": "",
-    "tags": ["escalas", "técnica"],
+    "tags": [
+      "escalas",
+      "técnica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 20,
     "repeat": "daily",
     "missionKind": "Técnica",
-    "steps": ["Escolha 1 maior e 1 menor", "Mãos separadas", "Mãos juntas", "Aumente 5 bpm só se estiver limpo"],
+    "steps": [
+      "Escolha 1 maior e 1 menor",
+      "Mãos separadas",
+      "Mãos juntas",
+      "Aumente 5 bpm só se estiver limpo"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -1578,13 +1972,22 @@
     "title": "7 min — II–V–I (voicings simples)",
     "subtitle": "Condução suave com 3ª e 7ª.",
     "cover": "",
-    "tags": ["II-V-I", "voicings", "harmonia"],
+    "tags": [
+      "II-V-I",
+      "voicings",
+      "harmonia"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 25,
     "repeat": "daily",
     "missionKind": "Teoria",
-    "steps": ["Toque ii–V–I em C", "Use 3ª e 7ª", "Adicione baixo", "Transponha para F se der"],
+    "steps": [
+      "Toque ii–V–I em C",
+      "Use 3ª e 7ª",
+      "Adicione baixo",
+      "Transponha para F se der"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -1595,25 +1998,36 @@
     "title": "6 min — Sight-reading contínuo (sem parar)",
     "subtitle": "Ritmo primeiro. Não pare para corrigir.",
     "cover": "",
-    "tags": ["leitura", "sight-reading"],
+    "tags": [
+      "leitura",
+      "sight-reading"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 20,
     "repeat": "daily",
     "missionKind": "Leitura",
-    "steps": ["Escolha trecho simples", "Bata palmas o ritmo", "Leia tocando sem parar", "Corrija depois"],
+    "steps": [
+      "Escolha trecho simples",
+      "Bata palmas o ritmo",
+      "Leia tocando sem parar",
+      "Corrija depois"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "lib_base_002",
     "type": "library",
     "title": "Guia completo: escalas (maior e menor) no piano",
     "subtitle": "O que estudar, como organizar e como medir progresso.",
     "cover": "",
-    "tags": ["escalas", "rotina", "metrônomo"],
+    "tags": [
+      "escalas",
+      "rotina",
+      "metrônomo"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "body": "# Escalas no piano (guia)\n\n## O que estudar\n- maiores\n- menores (natural/harmônica/melódica)\n- cromática\n\n## Como estudar\n- mãos separadas → mãos juntas\n- metrônomo\n- som uniforme\n\n## Progresso\nAumente **5 bpm** por etapa quando estiver limpo.\n",
@@ -1627,7 +2041,11 @@
     "title": "Montagem de acordes (tríades, tétrades, tensões) — referência",
     "subtitle": "Empilhar 3ª e reconhecer famílias de acordes.",
     "cover": "",
-    "tags": ["acordes", "tétrades", "tensões"],
+    "tags": [
+      "acordes",
+      "tétrades",
+      "tensões"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "body": "# Montagem de acordes\n\n## Método universal\nEmpilhe 3ª a partir da escala:\n- 1–3–5\n- +7\n- +9, +11, +13\n\n## Famílias essenciais\n- Maj7\n- m7\n- 7\n- m7b5\n- dim7\n\nIsso resolve 80% da harmonia prática.\n",
@@ -1641,7 +2059,11 @@
     "title": "Técnica sem lesão: tensão, pausa e eficiência",
     "subtitle": "Como estudar forte por anos, não por semanas.",
     "cover": "",
-    "tags": ["técnica", "saúde", "eficiência"],
+    "tags": [
+      "técnica",
+      "saúde",
+      "eficiência"
+    ],
     "level": "Iniciante",
     "category": "Piano Erudito",
     "body": "# Técnica sem lesão\n\n## Sinais de alerta\n- dor\n- formigamento\n- rigidez\n\n## Regras\n- estude lento\n- faça pausas curtas\n- mantenha ombros soltos\n- punho neutro\n\nConsistência é o objetivo.\n",
@@ -1649,14 +2071,18 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-    [
   {
     "id": "trk_eru_005",
     "type": "track",
     "title": "Módulo 14 — Escalas: 12 Tonalidades Maiores (Guia Completo)",
     "subtitle": "Mapa total das escalas maiores: armaduras, dedilhado e prática com metrônomo.",
     "cover": "",
-    "tags": ["escalas", "maiores", "dedilhado", "metrônomo"],
+    "tags": [
+      "escalas",
+      "maiores",
+      "dedilhado",
+      "metrônomo"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "lessonIds": [
@@ -1684,7 +2110,12 @@
     "title": "Módulo 15 — Escalas Menores: Natural, Harmônica e Melódica (12 Tonalidades)",
     "subtitle": "Sistema completo: quais alterações e como praticar com consistência.",
     "cover": "",
-    "tags": ["menores", "harmônica", "melódica", "técnica"],
+    "tags": [
+      "menores",
+      "harmônica",
+      "melódica",
+      "técnica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "lessonIds": [
@@ -1712,7 +2143,12 @@
     "title": "Módulo 16 — Arpejos e Acordes: Maior, Menor, Dominante e Diminuto",
     "subtitle": "Arpejos em todas as tonalidades com método seguro.",
     "cover": "",
-    "tags": ["arpejos", "acordes", "tétrades", "técnica"],
+    "tags": [
+      "arpejos",
+      "acordes",
+      "tétrades",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "lessonIds": [
@@ -1734,7 +2170,11 @@
     "title": "Módulo 17 — Transposição na Prática (Teclado Livre)",
     "subtitle": "Transpor escalas, progressões e riffs: passo a passo.",
     "cover": "",
-    "tags": ["transposição", "círculo das quintas", "prática"],
+    "tags": [
+      "transposição",
+      "círculo das quintas",
+      "prática"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "lessonIds": [
@@ -1749,14 +2189,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_019",
     "type": "lesson",
     "title": "Escala de Dó Maior (C): padrão-base e som uniforme",
     "subtitle": "A escala “limpa” para construir técnica e controle.",
     "cover": "",
-    "tags": ["C maior", "escala maior", "dedilhado"],
+    "tags": [
+      "C maior",
+      "escala maior",
+      "dedilhado"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1777,7 +2220,11 @@
     "title": "Escala de Sol Maior (G): 1 sustenido (F#)",
     "subtitle": "Trabalhe a sensação do F# com estabilidade.",
     "cover": "",
-    "tags": ["G maior", "F#", "escala maior"],
+    "tags": [
+      "G maior",
+      "F#",
+      "escala maior"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1798,7 +2245,11 @@
     "title": "Escala de Ré Maior (D): 2 sustenidos (F#, C#)",
     "subtitle": "Treino de precisão nas teclas pretas com relaxamento.",
     "cover": "",
-    "tags": ["D maior", "C#", "F#"],
+    "tags": [
+      "D maior",
+      "C#",
+      "F#"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1819,7 +2270,12 @@
     "title": "Escala de Lá Maior (A): 3 sustenidos (F#, C#, G#)",
     "subtitle": "Consistência e memória de armadura (sem decorar por medo).",
     "cover": "",
-    "tags": ["A maior", "G#", "C#", "F#"],
+    "tags": [
+      "A maior",
+      "G#",
+      "C#",
+      "F#"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1840,7 +2296,11 @@
     "title": "Escala de Mi Maior (E): 4 sustenidos",
     "subtitle": "Teclas pretas com som uniforme e mão relaxada.",
     "cover": "",
-    "tags": ["E maior", "sustenidos", "escala maior"],
+    "tags": [
+      "E maior",
+      "sustenidos",
+      "escala maior"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1861,7 +2321,11 @@
     "title": "Escala de Si Maior (B): 5 sustenidos",
     "subtitle": "Organize mentalmente a armadura antes de tocar.",
     "cover": "",
-    "tags": ["B maior", "sustenidos", "escala maior"],
+    "tags": [
+      "B maior",
+      "sustenidos",
+      "escala maior"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -1882,7 +2346,11 @@
     "title": "Escala de F# Maior / Gb Maior: 6 alterações",
     "subtitle": "Uma das mais importantes para técnica em teclas pretas.",
     "cover": "",
-    "tags": ["F# maior", "Gb maior", "escala maior"],
+    "tags": [
+      "F# maior",
+      "Gb maior",
+      "escala maior"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 40,
@@ -1903,7 +2371,11 @@
     "title": "Escala de Dó# Maior / Réb Maior: leitura e controle",
     "subtitle": "Ótima para entender enarmonia e armaduras complexas.",
     "cover": "",
-    "tags": ["C# maior", "Db maior", "enarmonia"],
+    "tags": [
+      "C# maior",
+      "Db maior",
+      "enarmonia"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 40,
@@ -1924,7 +2396,11 @@
     "title": "Escala de Fá Maior (F): 1 bemol (Bb)",
     "subtitle": "Introdução às tonalidades com bemóis.",
     "cover": "",
-    "tags": ["F maior", "Bb", "bemóis"],
+    "tags": [
+      "F maior",
+      "Bb",
+      "bemóis"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1945,7 +2421,11 @@
     "title": "Escala de Bb Maior (Bb): 2 bemóis",
     "subtitle": "Organize a armadura: Bb e Eb.",
     "cover": "",
-    "tags": ["Bb maior", "bemóis", "escala maior"],
+    "tags": [
+      "Bb maior",
+      "bemóis",
+      "escala maior"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1966,7 +2446,11 @@
     "title": "Escala de Eb Maior (Eb): 3 bemóis",
     "subtitle": "Foque em estabilidade e som uniforme em teclas pretas.",
     "cover": "",
-    "tags": ["Eb maior", "bemóis", "escala maior"],
+    "tags": [
+      "Eb maior",
+      "bemóis",
+      "escala maior"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 30,
@@ -1987,7 +2471,11 @@
     "title": "Escala de Ab Maior (Ab): 4 bemóis",
     "subtitle": "Ton. muito usada: conforto em pretas e musicalidade.",
     "cover": "",
-    "tags": ["Ab maior", "bemóis", "escala maior"],
+    "tags": [
+      "Ab maior",
+      "bemóis",
+      "escala maior"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -2002,14 +2490,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_031",
     "type": "lesson",
     "title": "Menor por relação: relativas (maior ↔ menor)",
     "subtitle": "Encontre a menor relativa e comece a dominar as 12 menores.",
     "cover": "",
-    "tags": ["relativa", "menor", "teoria"],
+    "tags": [
+      "relativa",
+      "menor",
+      "teoria"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -2024,14 +2515,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_032",
     "type": "lesson",
     "title": "A menor (Am): natural, harmônica e melódica",
     "subtitle": "Treine as três formas com calma e ouvido atento.",
     "cover": "",
-    "tags": ["A menor", "harmônica", "melódica"],
+    "tags": [
+      "A menor",
+      "harmônica",
+      "melódica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -2046,14 +2540,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_033",
     "type": "lesson",
     "title": "E menor (Em): consolide com metrônomo",
     "subtitle": "A menor relativa de G maior: natural, harmônica e melódica.",
     "cover": "",
-    "tags": ["E menor", "menor", "técnica"],
+    "tags": [
+      "E menor",
+      "menor",
+      "técnica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -2068,14 +2565,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_034",
     "type": "lesson",
     "title": "D menor (Dm): bemóis e som cantável",
     "subtitle": "Menor relativa de F maior: controle e clareza.",
     "cover": "",
-    "tags": ["D menor", "bemóis", "menor"],
+    "tags": [
+      "D menor",
+      "bemóis",
+      "menor"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -2090,14 +2590,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_035",
     "type": "lesson",
     "title": "B menor (Bm): controle em sustenidos",
     "subtitle": "Menor relativa de D maior: técnica em teclas pretas.",
     "cover": "",
-    "tags": ["B menor", "sustenidos", "menor"],
+    "tags": [
+      "B menor",
+      "sustenidos",
+      "menor"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 40,
@@ -2112,14 +2615,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_036",
     "type": "lesson",
     "title": "F# menor (F#m): escala essencial (popular e erudito)",
     "subtitle": "Excelente para técnica e repertório moderno.",
     "cover": "",
-    "tags": ["F# menor", "menor", "técnica"],
+    "tags": [
+      "F# menor",
+      "menor",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 40,
@@ -2134,14 +2640,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_037",
     "type": "lesson",
     "title": "C# menor (C#m): estabilidade e mão “dentro” do teclado",
     "subtitle": "Menor relativa de E maior: muitas teclas pretas.",
     "cover": "",
-    "tags": ["C# menor", "menor", "técnica"],
+    "tags": [
+      "C# menor",
+      "menor",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 40,
@@ -2156,14 +2665,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_038",
     "type": "lesson",
     "title": "G# menor / Ab menor: enarmonia e escolha prática",
     "subtitle": "Quando pensar em G# menor e quando em Ab menor.",
     "cover": "",
-    "tags": ["G# menor", "Ab menor", "enarmonia"],
+    "tags": [
+      "G# menor",
+      "Ab menor",
+      "enarmonia"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 45,
@@ -2178,14 +2690,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_039",
     "type": "lesson",
     "title": "C menor (Cm): bemóis e expressão",
     "subtitle": "Uma tonalidade muito usada em repertório e harmonia popular.",
     "cover": "",
-    "tags": ["C menor", "bemóis", "menor"],
+    "tags": [
+      "C menor",
+      "bemóis",
+      "menor"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 35,
@@ -2200,14 +2715,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_040",
     "type": "lesson",
     "title": "F menor (Fm): som denso e controle em bemóis",
     "subtitle": "Treine com clareza e sem pesar a mão.",
     "cover": "",
-    "tags": ["F menor", "bemóis", "menor"],
+    "tags": [
+      "F menor",
+      "bemóis",
+      "menor"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 40,
@@ -2222,14 +2740,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_041",
     "type": "lesson",
     "title": "Bb menor (Bbm): organização mental antes do toque",
     "subtitle": "Menor relativa de Db maior: bemóis e foco.",
     "cover": "",
-    "tags": ["Bb menor", "bemóis", "menor"],
+    "tags": [
+      "Bb menor",
+      "bemóis",
+      "menor"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 45,
@@ -2244,14 +2765,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_042",
     "type": "lesson",
     "title": "Eb menor (Ebm): técnica em teclas pretas com calma",
     "subtitle": "Trabalhe precisão de mão e relaxamento.",
     "cover": "",
-    "tags": ["Eb menor", "bemóis", "menor"],
+    "tags": [
+      "Eb menor",
+      "bemóis",
+      "menor"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 45,
@@ -2266,14 +2790,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_043",
     "type": "lesson",
     "title": "Arpejos de tríades: maior e menor (sistema)",
     "subtitle": "Como praticar arpejos sem se perder e sem tensionar.",
     "cover": "",
-    "tags": ["arpejos", "tríades", "técnica"],
+    "tags": [
+      "arpejos",
+      "tríades",
+      "técnica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 45,
@@ -2294,7 +2821,11 @@
     "title": "Arpejos de 7ª: Maj7, m7 e 7 (básico)",
     "subtitle": "Comece com poucas tonalidades e expanda com consistência.",
     "cover": "",
-    "tags": ["arpejos", "tétrades", "7ª"],
+    "tags": [
+      "arpejos",
+      "tétrades",
+      "7ª"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 50,
@@ -2315,7 +2846,11 @@
     "title": "Arpejos diminutos (dim7): padrão simétrico",
     "subtitle": "Domine um desenho que se repete pelo teclado.",
     "cover": "",
-    "tags": ["diminuto", "dim7", "simetria"],
+    "tags": [
+      "diminuto",
+      "dim7",
+      "simetria"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 55,
@@ -2336,7 +2871,11 @@
     "title": "Padrão de metrônomo: estabilidade → velocidade",
     "subtitle": "Um método objetivo para evoluir sem travar.",
     "cover": "",
-    "tags": ["metrônomo", "técnica", "progresso"],
+    "tags": [
+      "metrônomo",
+      "técnica",
+      "progresso"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -2357,7 +2896,11 @@
     "title": "Técnica de escalas: igualdade de dedos e peso do braço",
     "subtitle": "Som bonito com mínimo esforço.",
     "cover": "",
-    "tags": ["técnica", "igualdade", "som"],
+    "tags": [
+      "técnica",
+      "igualdade",
+      "som"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 40,
@@ -2378,7 +2921,11 @@
     "title": "Rotina semanal de escalas e arpejos (plano pronto)",
     "subtitle": "Um calendário simples para cobrir tonalidades sem se perder.",
     "cover": "",
-    "tags": ["rotina", "escalas", "arpejos"],
+    "tags": [
+      "rotina",
+      "escalas",
+      "arpejos"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 45,
@@ -2393,14 +2940,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_020",
     "type": "lesson",
     "title": "Transposição de escalas: método em 3 passos",
     "subtitle": "Montar → tocar → confirmar (sem decorar por medo).",
     "cover": "",
-    "tags": ["transposição", "escalas", "método"],
+    "tags": [
+      "transposição",
+      "escalas",
+      "método"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 40,
@@ -2421,7 +2971,11 @@
     "title": "Transposição de progressões: I–V–vi–IV em 4 tonalidades",
     "subtitle": "Treino guiado para ficar automático.",
     "cover": "",
-    "tags": ["transposição", "progressões", "popular"],
+    "tags": [
+      "transposição",
+      "progressões",
+      "popular"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 45,
@@ -2443,7 +2997,11 @@
     "title": "Transposição de II–V–I: o caminho do jazz e do gospel",
     "subtitle": "Domine a sequência mais importante da harmonia prática.",
     "cover": "",
-    "tags": ["II-V-I", "transposição", "harmonia"],
+    "tags": [
+      "II-V-I",
+      "transposição",
+      "harmonia"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 50,
@@ -2464,7 +3022,11 @@
     "title": "Círculo das quintas aplicado: rotina de 10 minutos",
     "subtitle": "O atalho para cobrir tonalidades sem bagunça.",
     "cover": "",
-    "tags": ["círculo", "tonalidades", "rotina"],
+    "tags": [
+      "círculo",
+      "tonalidades",
+      "rotina"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 40,
@@ -2485,7 +3047,11 @@
     "title": "Transposição por graus: pense em números (I, ii, V...)",
     "subtitle": "O método profissional para tocar em qualquer tom.",
     "cover": "",
-    "tags": ["graus", "números", "transposição"],
+    "tags": [
+      "graus",
+      "números",
+      "transposição"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 45,
@@ -2500,20 +3066,28 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "mis_daily_008",
     "type": "mission",
     "title": "10 min — Escala do dia + metrônomo (5 bpm)",
     "subtitle": "Escala limpa, uniforme, sem tensão.",
     "cover": "",
-    "tags": ["escala", "metrônomo", "técnica"],
+    "tags": [
+      "escala",
+      "metrônomo",
+      "técnica"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 25,
     "repeat": "daily",
     "missionKind": "Técnica",
-    "steps": ["Escolha 1 escala maior", "Mãos separadas", "Mãos juntas", "Aumente 5 bpm se estiver limpo"],
+    "steps": [
+      "Escolha 1 escala maior",
+      "Mãos separadas",
+      "Mãos juntas",
+      "Aumente 5 bpm se estiver limpo"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -2524,25 +3098,37 @@
     "title": "10 min — Transposição de I–V–vi–IV (2 tonalidades)",
     "subtitle": "Use graus e inversões próximas.",
     "cover": "",
-    "tags": ["transposição", "progressões", "popular"],
+    "tags": [
+      "transposição",
+      "progressões",
+      "popular"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 25,
     "repeat": "daily",
     "missionKind": "Teoria",
-    "steps": ["Toque em uma tonalidade", "Converta para graus", "Transponha para outra tonalidade", "Mantenha inversões próximas"],
+    "steps": [
+      "Toque em uma tonalidade",
+      "Converta para graus",
+      "Transponha para outra tonalidade",
+      "Mantenha inversões próximas"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "lib_eru_003",
     "type": "library",
     "title": "Dedilhados: como pensar (sem decorar tudo no escuro)",
     "subtitle": "Regras práticas para escolher dedos com lógica.",
     "cover": "",
-    "tags": ["dedilhado", "técnica", "método"],
+    "tags": [
+      "dedilhado",
+      "técnica",
+      "método"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "body": "# Dedilhados (guia)\n\n## Princípios\n- Use o polegar para “passar” em pontos estratégicos.\n- Prefira dedos longos (2-3-4) nas teclas pretas.\n- Evite cruzamentos que gerem tensão.\n\n## Método\nEscolha uma escala e repita lento até ficar automático.\n",
@@ -2556,7 +3142,11 @@
     "title": "Mapa de tonalidades: sustenidos e bemóis (referência rápida)",
     "subtitle": "Um guia simples para não se perder nas armaduras.",
     "cover": "",
-    "tags": ["armaduras", "tonalidades", "círculo"],
+    "tags": [
+      "armaduras",
+      "tonalidades",
+      "círculo"
+    ],
     "level": "Iniciante",
     "category": "Base comum",
     "body": "# Mapa rápido\n\n## Sustenidos (ordem)\nF# C# G# D# A# E# B#\n\n## Bemóis (ordem)\nBb Eb Ab Db Gb Cb Fb\n\n## Uso\nDiga as alterações antes de tocar.\nIsso reduz erros.\n",
@@ -2564,14 +3154,19 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-      [
   {
     "id": "trk_pop_005",
     "type": "track",
     "title": "Módulo 18 — Harmonia Avançada (Popular): Dominantes, Tensões e Reharmonização",
     "subtitle": "Dominantes secundárias, subV7, empréstimo modal, diminutos e voicings profissionais.",
     "cover": "",
-    "tags": ["harmonia", "dominantes", "subV7", "reharmonização", "voicings"],
+    "tags": [
+      "harmonia",
+      "dominantes",
+      "subV7",
+      "reharmonização",
+      "voicings"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "lessonIds": [
@@ -2597,7 +3192,12 @@
     "title": "Módulo 19 — Cadências, Modulações e Forma Harmônica",
     "subtitle": "Cadências (autêntica, plagal, deceptiva, semicadência), modulação e análise prática.",
     "cover": "",
-    "tags": ["cadência", "modulação", "análise", "forma"],
+    "tags": [
+      "cadência",
+      "modulação",
+      "análise",
+      "forma"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "lessonIds": [
@@ -2619,7 +3219,12 @@
     "title": "Módulo 20 — Harmonia Avançada no Teclado (Erudito): Análise e Condução",
     "subtitle": "Funções, cromatismo, empréstimos e condução de vozes para repertório e interpretação.",
     "cover": "",
-    "tags": ["harmonia", "análise", "cromatismo", "voice leading"],
+    "tags": [
+      "harmonia",
+      "análise",
+      "cromatismo",
+      "voice leading"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "lessonIds": [
@@ -2635,14 +3240,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_pop_019",
     "type": "lesson",
     "title": "Dominantes secundárias: o motor do movimento (V/x)",
     "subtitle": "Como criar direção harmônica sem mudar o tom de vez.",
     "cover": "",
-    "tags": ["dominante secundária", "V/x", "harmonia"],
+    "tags": [
+      "dominante secundária",
+      "V/x",
+      "harmonia"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 60,
@@ -2663,7 +3271,12 @@
     "title": "Substituição por trítono (subV7): tensão elegante",
     "subtitle": "Troque V7 por bII7 e mantenha a resolução.",
     "cover": "",
-    "tags": ["subV7", "trítono", "jazz-pop", "cadência"],
+    "tags": [
+      "subV7",
+      "trítono",
+      "jazz-pop",
+      "cadência"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 65,
@@ -2684,7 +3297,11 @@
     "title": "Empréstimo modal (modal interchange): cor sem modulação",
     "subtitle": "Pegue acordes do paralelo (maior ↔ menor) para colorir o pop.",
     "cover": "",
-    "tags": ["empréstimo modal", "paralelo", "colorir"],
+    "tags": [
+      "empréstimo modal",
+      "paralelo",
+      "colorir"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 60,
@@ -2705,7 +3322,11 @@
     "title": "Acordes diminutos como passagem: 3 usos práticos",
     "subtitle": "Passeios cromáticos e preparação de dominantes.",
     "cover": "",
-    "tags": ["diminuto", "passagem", "cromático"],
+    "tags": [
+      "diminuto",
+      "passagem",
+      "cromático"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 60,
@@ -2726,7 +3347,13 @@
     "title": "Tensões (9, 11, 13): quando adicionar e quando evitar",
     "subtitle": "Organize as tensões por função (Tônica, Subdominante, Dominante).",
     "cover": "",
-    "tags": ["tensões", "9", "11", "13", "voicings"],
+    "tags": [
+      "tensões",
+      "9",
+      "11",
+      "13",
+      "voicings"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 65,
@@ -2747,7 +3374,12 @@
     "title": "Voicings sem embolar: shell + tensão (mão direita)",
     "subtitle": "Som grande com poucas notas: 3ª/7ª + 9/13.",
     "cover": "",
-    "tags": ["voicings", "shell", "tensão", "prática"],
+    "tags": [
+      "voicings",
+      "shell",
+      "tensão",
+      "prática"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 65,
@@ -2768,7 +3400,12 @@
     "title": "Dominantes alteradas (b9, #9, b13): mapa simples",
     "subtitle": "Como tensionar sem perder a resolução.",
     "cover": "",
-    "tags": ["dominante alterada", "b9", "#9", "b13"],
+    "tags": [
+      "dominante alterada",
+      "b9",
+      "#9",
+      "b13"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 70,
@@ -2789,7 +3426,11 @@
     "title": "Reharmonização básica (pop): 6 truques seguros",
     "subtitle": "Trocas que soam bonitas sem estragar a música.",
     "cover": "",
-    "tags": ["reharmonização", "pop", "substituições"],
+    "tags": [
+      "reharmonização",
+      "pop",
+      "substituições"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 70,
@@ -2811,7 +3452,11 @@
     "title": "Condução de vozes (voice leading): 4 regras de ouro",
     "subtitle": "O que separa amador de profissional no teclado.",
     "cover": "",
-    "tags": ["voice leading", "condução", "voicings"],
+    "tags": [
+      "voice leading",
+      "condução",
+      "voicings"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 70,
@@ -2833,7 +3478,11 @@
     "title": "Aplicação prática: 8 compassos reharmonizados (modelo)",
     "subtitle": "Um modelo para você aplicar em músicas reais.",
     "cover": "",
-    "tags": ["prática", "modelo", "reharmonização"],
+    "tags": [
+      "prática",
+      "modelo",
+      "reharmonização"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 75,
@@ -2849,14 +3498,18 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_025",
     "type": "lesson",
     "title": "Cadências: autêntica, plagal, deceptiva e semicadência",
     "subtitle": "O “vocabulário” das terminações harmônicas.",
     "cover": "",
-    "tags": ["cadência", "autêntica", "plagal", "deceptiva"],
+    "tags": [
+      "cadência",
+      "autêntica",
+      "plagal",
+      "deceptiva"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 60,
@@ -2878,7 +3531,11 @@
     "title": "Modulação: 3 formas simples de mudar de tom",
     "subtitle": "Acorde pivô, dominante do novo tom e modulação direta.",
     "cover": "",
-    "tags": ["modulação", "pivô", "dominante"],
+    "tags": [
+      "modulação",
+      "pivô",
+      "dominante"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 65,
@@ -2899,7 +3556,11 @@
     "title": "Acorde pivô: como encontrar rapidamente",
     "subtitle": "Um método simples para modular com naturalidade.",
     "cover": "",
-    "tags": ["pivô", "modulação", "análise"],
+    "tags": [
+      "pivô",
+      "modulação",
+      "análise"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 60,
@@ -2920,7 +3581,11 @@
     "title": "Cromatismo funcional: aproximações por semitom",
     "subtitle": "Como usar cromatismo sem virar bagunça.",
     "cover": "",
-    "tags": ["cromatismo", "aproximação", "função"],
+    "tags": [
+      "cromatismo",
+      "aproximação",
+      "função"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 60,
@@ -2941,7 +3606,11 @@
     "title": "Análise por função (T–S–D) em músicas reais",
     "subtitle": "Como enxergar a harmonia como movimento, não nomes soltos.",
     "cover": "",
-    "tags": ["função", "análise", "TSD"],
+    "tags": [
+      "função",
+      "análise",
+      "TSD"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 55,
@@ -2962,7 +3631,11 @@
     "title": "Mapa rápido de reharmonização: decisão por objetivo",
     "subtitle": "Você quer mais tensão? mais emoção? mais leveza? Escolha o recurso certo.",
     "cover": "",
-    "tags": ["reharmonização", "mapa", "decisão"],
+    "tags": [
+      "reharmonização",
+      "mapa",
+      "decisão"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 55,
@@ -2978,14 +3651,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_049",
     "type": "lesson",
     "title": "Harmonia no erudito: funções e direção (sem \"jazzificar\")",
     "subtitle": "Entenda a função sem mudar o estilo do repertório.",
     "cover": "",
-    "tags": ["erudito", "função", "análise"],
+    "tags": [
+      "erudito",
+      "função",
+      "análise"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -3006,7 +3682,11 @@
     "title": "Cromatismo romântico: acordes de passagem e intensificação",
     "subtitle": "Como o repertório cria cor sem perder o centro tonal.",
     "cover": "",
-    "tags": ["romântico", "cromatismo", "passagem"],
+    "tags": [
+      "romântico",
+      "cromatismo",
+      "passagem"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 65,
@@ -3027,7 +3707,11 @@
     "title": "Dominantes secundárias no erudito: leitura e análise",
     "subtitle": "Reconheça V/x em repertório e entenda a intenção.",
     "cover": "",
-    "tags": ["dominantes secundárias", "análise", "V/x"],
+    "tags": [
+      "dominantes secundárias",
+      "análise",
+      "V/x"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 65,
@@ -3048,7 +3732,11 @@
     "title": "Empréstimo modal no erudito: cor e contraste",
     "subtitle": "Entenda o efeito expressivo de acordes emprestados.",
     "cover": "",
-    "tags": ["empréstimo modal", "cor", "contraste"],
+    "tags": [
+      "empréstimo modal",
+      "cor",
+      "contraste"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -3069,7 +3757,11 @@
     "title": "Condução de vozes em 4 partes (introdução prática)",
     "subtitle": "Baixo, tenor, contralto, soprano: pense em linhas.",
     "cover": "",
-    "tags": ["4 vozes", "condução", "análise"],
+    "tags": [
+      "4 vozes",
+      "condução",
+      "análise"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 70,
@@ -3090,7 +3782,11 @@
     "title": "Modulações comuns no repertório: dominante do destino",
     "subtitle": "Reconheça e prepare o ouvido para mudanças de tom.",
     "cover": "",
-    "tags": ["modulação", "dominante", "ouvido"],
+    "tags": [
+      "modulação",
+      "dominante",
+      "ouvido"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 65,
@@ -3105,14 +3801,18 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "lib_pop_003",
     "type": "library",
     "title": "Guia de Harmonia Avançada (Popular): V/x, subV7, empréstimo modal e tensões",
     "subtitle": "Referência rápida com exemplos práticos no teclado.",
     "cover": "",
-    "tags": ["harmonia", "V/x", "subV7", "tensões"],
+    "tags": [
+      "harmonia",
+      "V/x",
+      "subV7",
+      "tensões"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "body": "# Harmonia avançada (resumo)\n\n## Dominantes secundárias (V/x)\nUse um acorde dominante para resolver em um grau alvo.\n\n## subV7\nTroque V7 por bII7 e resolva igual.\n\n## Empréstimo modal\nPegue iv, bVI, bVII do paralelo para cor.\n\n## Tensões\n- Tônica: 9/13\n- Subdominante: 9/11\n- Dominante: b9/#9/b13\n\nRegra: 1 recurso por vez + boa condução.\n",
@@ -3126,7 +3826,11 @@
     "title": "Cadências e Modulações: referência prática para piano",
     "subtitle": "Tipos de cadência e 3 formas de modular com exemplos.",
     "cover": "",
-    "tags": ["cadências", "modulação", "análise"],
+    "tags": [
+      "cadências",
+      "modulação",
+      "análise"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "body": "# Cadências\n\n- Autêntica: V → I\n- Plagal: IV → I\n- Deceptiva: V → vi\n- Semicadência: termina no V\n\n# Modulação (3 formas)\n1) Acorde pivô\n2) Dominante do destino\n3) Direta\n\nTreine em C, depois transpõe.\n",
@@ -3134,20 +3838,28 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "mis_daily_010",
     "type": "mission",
     "title": "12 min — Cadência colorida (ii–V–I com subV7)",
     "subtitle": "Compare V7 e subV7 e treine condução suave.",
     "cover": "",
-    "tags": ["ii-V-I", "subV7", "voice leading"],
+    "tags": [
+      "ii-V-I",
+      "subV7",
+      "voice leading"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 30,
     "repeat": "daily",
     "missionKind": "Teoria",
-    "steps": ["Toque ii–V–I em C", "Troque V por subV7", "Mantenha 3ª e 7ª guiando", "Transponha para F se der"],
+    "steps": [
+      "Toque ii–V–I em C",
+      "Troque V por subV7",
+      "Mantenha 3ª e 7ª guiando",
+      "Transponha para F se der"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -3158,25 +3870,39 @@
     "title": "12 min — Reharmonizar 8 compassos (1 recurso por vez)",
     "subtitle": "Aplicar V/x, empréstimo modal ou diminuto de passagem.",
     "cover": "",
-    "tags": ["reharmonização", "prática", "harmonia"],
+    "tags": [
+      "reharmonização",
+      "prática",
+      "harmonia"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 30,
     "repeat": "daily",
     "missionKind": "Repertório",
-    "steps": ["Escolha uma progressão simples", "Aplique 1 recurso", "Toque e compare", "Volte ao simples e perceba contraste"],
+    "steps": [
+      "Escolha uma progressão simples",
+      "Aplique 1 recurso",
+      "Toque e compare",
+      "Volte ao simples e perceba contraste"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-        [
   {
     "id": "trk_base_007",
     "type": "track",
     "title": "Módulo 21 — Acordes & Escalas Aplicadas (Guia Total)",
     "subtitle": "Tríades/tétrades em todos os graus, modos, escalas por acorde, dominantes alteradas e exercícios diários.",
     "cover": "",
-    "tags": ["acordes", "escalas", "modos", "aplicação", "dominantes alteradas"],
+    "tags": [
+      "acordes",
+      "escalas",
+      "modos",
+      "aplicação",
+      "dominantes alteradas"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "lessonIds": [
@@ -3204,7 +3930,13 @@
     "title": "Módulo 22 — Guia de Escala Sobre Acorde (Popular/Jazz-Pop)",
     "subtitle": "Como escolher escala para improviso e linhas: diatônica, modos, pentatônicas, blues, alteradas e diminutas.",
     "cover": "",
-    "tags": ["improviso", "escala sobre acorde", "pentatônica", "blues", "alterada"],
+    "tags": [
+      "improviso",
+      "escala sobre acorde",
+      "pentatônica",
+      "blues",
+      "alterada"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "lessonIds": [
@@ -3228,7 +3960,12 @@
     "title": "Módulo 23 — Harmonia Funcional no Piano (Graus, Cadências e Condução)",
     "subtitle": "Acordes por grau (tri/tétrade), cadências em maior e menor e exercícios de voice leading.",
     "cover": "",
-    "tags": ["função", "graus", "cadências", "condução"],
+    "tags": [
+      "função",
+      "graus",
+      "cadências",
+      "condução"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "lessonIds": [
@@ -3243,14 +3980,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_base_031",
     "type": "lesson",
     "title": "Tríades em todos os graus (campo harmônico maior) — mapa completo",
     "subtitle": "I ii iii IV V vi vii°: qual é maior/menor/diminuto e por quê.",
     "cover": "",
-    "tags": ["tríades", "campo harmônico", "graus"],
+    "tags": [
+      "tríades",
+      "campo harmônico",
+      "graus"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 55,
@@ -3272,7 +4012,12 @@
     "title": "Tétrades em todos os graus (tom maior) — 7ª por função",
     "subtitle": "Imaj7 iim7 iiim7 IVmaj7 V7 vim7 viim7b5.",
     "cover": "",
-    "tags": ["tétrades", "7ª", "graus", "função"],
+    "tags": [
+      "tétrades",
+      "7ª",
+      "graus",
+      "função"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 60,
@@ -3294,7 +4039,12 @@
     "title": "Campo harmônico menor (natural, harmônico, melódico) — o que muda",
     "subtitle": "Por que no menor aparecem V maior, vii° e cores diferentes.",
     "cover": "",
-    "tags": ["menor", "campo harmônico", "harmônica", "melódica"],
+    "tags": [
+      "menor",
+      "campo harmônico",
+      "harmônica",
+      "melódica"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 60,
@@ -3316,7 +4066,16 @@
     "title": "Modos (Jônio a Lócrio): fórmula + aplicação em acordes",
     "subtitle": "Entenda o som de cada modo e onde ele aparece.",
     "cover": "",
-    "tags": ["modos", "jônio", "dórico", "frígio", "lídio", "mixolídio", "eólio", "lócrio"],
+    "tags": [
+      "modos",
+      "jônio",
+      "dórico",
+      "frígio",
+      "lídio",
+      "mixolídio",
+      "eólio",
+      "lócrio"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 65,
@@ -3337,7 +4096,11 @@
     "title": "Pentatônicas (maior e menor): o canivete suíço do teclado",
     "subtitle": "Como usar sem errar feio e como conectar com acordes.",
     "cover": "",
-    "tags": ["pentatônica", "improviso", "melodia"],
+    "tags": [
+      "pentatônica",
+      "improviso",
+      "melodia"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 50,
@@ -3358,7 +4121,11 @@
     "title": "Escala blues: cor imediata (e como não exagerar)",
     "subtitle": "Pentatônica menor + blue note: uso musical.",
     "cover": "",
-    "tags": ["blues", "blue note", "improviso"],
+    "tags": [
+      "blues",
+      "blue note",
+      "improviso"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 55,
@@ -3379,7 +4146,12 @@
     "title": "Escalas para dominantes alteradas (visão geral prática)",
     "subtitle": "Mixolídio, mixo b13, alterada (superlócria), diminuta e tons inteiros.",
     "cover": "",
-    "tags": ["dominante", "alterada", "diminuta", "tons inteiros"],
+    "tags": [
+      "dominante",
+      "alterada",
+      "diminuta",
+      "tons inteiros"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 70,
@@ -3401,7 +4173,11 @@
     "title": "Escala diminuta (dominante): padrão e aplicação (meio-tom/tom)",
     "subtitle": "Uma das melhores para V7(b9/#9) com som profissional.",
     "cover": "",
-    "tags": ["diminuta", "dominante", "tensão"],
+    "tags": [
+      "diminuta",
+      "dominante",
+      "tensão"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 75,
@@ -3422,7 +4198,11 @@
     "title": "Escala alterada (superlócria): o mapa da tensão máxima",
     "subtitle": "Para dominantes com b9/#9/b13: como ouvir e resolver.",
     "cover": "",
-    "tags": ["alterada", "superlócria", "dominante"],
+    "tags": [
+      "alterada",
+      "superlócria",
+      "dominante"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 75,
@@ -3443,7 +4223,11 @@
     "title": "Guia prático: escala sobre acorde (tabela mental)",
     "subtitle": "Uma regra simples para 80% dos casos.",
     "cover": "",
-    "tags": ["escala sobre acorde", "tabela", "prático"],
+    "tags": [
+      "escala sobre acorde",
+      "tabela",
+      "prático"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "xp": 65,
@@ -3465,7 +4249,11 @@
     "title": "Exercício diário: 3 camadas (acorde → escala → frase → resolução)",
     "subtitle": "O método para transformar teoria em música de verdade.",
     "cover": "",
-    "tags": ["exercício", "aplicação", "improviso"],
+    "tags": [
+      "exercício",
+      "aplicação",
+      "improviso"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 55,
@@ -3487,7 +4275,11 @@
     "title": "Treino de 12 tonalidades: ciclo de quartas (plano de 4 semanas)",
     "subtitle": "Organize escalas, acordes e progressões para cobrir tudo com qualidade.",
     "cover": "",
-    "tags": ["12 tonalidades", "ciclo de quartas", "plano"],
+    "tags": [
+      "12 tonalidades",
+      "ciclo de quartas",
+      "plano"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 60,
@@ -3503,14 +4295,18 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_pop_029",
     "type": "lesson",
     "title": "Escala sobre acorde (Popular): maj7 e add9 sem embolar",
     "subtitle": "Melodias e fills seguros em acordes maiores.",
     "cover": "",
-    "tags": ["maj7", "add9", "melodia", "popular"],
+    "tags": [
+      "maj7",
+      "add9",
+      "melodia",
+      "popular"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 50,
@@ -3531,7 +4327,11 @@
     "title": "Escala sobre acorde (Popular): m7 (Dórico) para som moderno",
     "subtitle": "Dórico é o som de m7 “grooveado” (funk/MPB/gospel).",
     "cover": "",
-    "tags": ["m7", "dórico", "popular"],
+    "tags": [
+      "m7",
+      "dórico",
+      "popular"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 55,
@@ -3552,7 +4352,11 @@
     "title": "Escala sobre acorde (Popular): dominante 7 “limpo” (Mixolídio)",
     "subtitle": "Para blues/pop/rock quando não tem alteração explícita.",
     "cover": "",
-    "tags": ["dominante", "mixolídio", "7"],
+    "tags": [
+      "dominante",
+      "mixolídio",
+      "7"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 55,
@@ -3573,7 +4377,11 @@
     "title": "Pentatônica menor + blues sobre dominante (som popular imediato)",
     "subtitle": "Um caminho simples para soar bem rápido.",
     "cover": "",
-    "tags": ["pentatônica", "blues", "dominante"],
+    "tags": [
+      "pentatônica",
+      "blues",
+      "dominante"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 55,
@@ -3594,7 +4402,12 @@
     "title": "Dominante com tensão: como escolher (alterada vs diminuta vs tons inteiros)",
     "subtitle": "Uma regra simples baseada no tipo de alteração.",
     "cover": "",
-    "tags": ["alterada", "diminuta", "tons inteiros", "dominante"],
+    "tags": [
+      "alterada",
+      "diminuta",
+      "tons inteiros",
+      "dominante"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 70,
@@ -3616,7 +4429,11 @@
     "title": "m7b5: Lócrio (básico) e aplicação em menor (iiø–V–i)",
     "subtitle": "O acorde que aparece muito em tonalidades menores.",
     "cover": "",
-    "tags": ["m7b5", "lócrio", "menor"],
+    "tags": [
+      "m7b5",
+      "lócrio",
+      "menor"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 65,
@@ -3637,7 +4454,11 @@
     "title": "Treino: arpejo primeiro (maj7, m7, 7, m7b5) + 1 escala",
     "subtitle": "O método mais seguro para improvisar sem se perder.",
     "cover": "",
-    "tags": ["arpejo", "improviso", "método"],
+    "tags": [
+      "arpejo",
+      "improviso",
+      "método"
+    ],
     "level": "Intermediário",
     "category": "Piano Popular",
     "xp": 55,
@@ -3658,7 +4479,11 @@
     "title": "Aplicação em II–V–I: 3 níveis (simples → colorido → alterado)",
     "subtitle": "Um roteiro completo para evoluir com controle.",
     "cover": "",
-    "tags": ["ii-V-I", "aplicação", "níveis"],
+    "tags": [
+      "ii-V-I",
+      "aplicação",
+      "níveis"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 70,
@@ -3673,14 +4498,18 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "les_eru_055",
     "type": "lesson",
     "title": "Acordes por grau no erudito: tríades + inversões (voice leading)",
     "subtitle": "Como conduzir vozes com inversões para tocar cadências limpas.",
     "cover": "",
-    "tags": ["erudito", "tríades", "inversões", "condução"],
+    "tags": [
+      "erudito",
+      "tríades",
+      "inversões",
+      "condução"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 55,
@@ -3701,7 +4530,11 @@
     "title": "Cadência perfeita no piano: IV–V–I (vozes próximas)",
     "subtitle": "O fundamento da harmonia tonal no repertório.",
     "cover": "",
-    "tags": ["cadência", "IV-V-I", "erudito"],
+    "tags": [
+      "cadência",
+      "IV-V-I",
+      "erudito"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 55,
@@ -3722,7 +4555,11 @@
     "title": "Cadência menor: iiø–V–i (harmônica) — por que funciona",
     "subtitle": "O papel da 7ª elevada e da dominante forte no menor.",
     "cover": "",
-    "tags": ["menor", "iiø-V-i", "harmônica"],
+    "tags": [
+      "menor",
+      "iiø-V-i",
+      "harmônica"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -3743,7 +4580,12 @@
     "title": "Acordes de empréstimo no repertório: bVI e iv em tom maior",
     "subtitle": "Como reconhecer e interpretar o efeito emocional.",
     "cover": "",
-    "tags": ["empréstimo modal", "erudito", "bVI", "iv"],
+    "tags": [
+      "empréstimo modal",
+      "erudito",
+      "bVI",
+      "iv"
+    ],
     "level": "Avançado",
     "category": "Piano Erudito",
     "xp": 60,
@@ -3764,7 +4606,11 @@
     "title": "Exercício de condução: segure notas comuns e mova por grau conjunto",
     "subtitle": "O treino que deixa qualquer progressão elegante.",
     "cover": "",
-    "tags": ["condução", "voice leading", "exercício"],
+    "tags": [
+      "condução",
+      "voice leading",
+      "exercício"
+    ],
     "level": "Intermediário",
     "category": "Piano Erudito",
     "xp": 55,
@@ -3780,14 +4626,17 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "lib_base_005",
     "type": "library",
     "title": "Acorde → Escala (referência rápida): maj7, m7, 7, m7b5, alt, dim",
     "subtitle": "Um mapa direto para improviso e criação de linhas no piano.",
     "cover": "",
-    "tags": ["referência", "escala sobre acorde", "tabela"],
+    "tags": [
+      "referência",
+      "escala sobre acorde",
+      "tabela"
+    ],
     "level": "Avançado",
     "category": "Base comum",
     "body": "# Referência rápida\n\n- **maj7** → Jônio / Lídio\n- **m7** → Dórico (ou Eólio)\n- **7 (limpo)** → Mixolídio\n- **7 (alt)** → Alterada (superlócria) / Diminuta / Tons inteiros\n- **m7b5** → Lócrio\n\nRegra: arpejo primeiro, escala depois.\n",
@@ -3801,7 +4650,11 @@
     "title": "Dominantes alteradas: como usar sem soar confuso",
     "subtitle": "Tensão com intenção: escolha, frase e resolução.",
     "cover": "",
-    "tags": ["dominante", "alterada", "resolução"],
+    "tags": [
+      "dominante",
+      "alterada",
+      "resolução"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "body": "# Dominante alterada (uso musical)\n\n1) Identifique a função (vai resolver para onde?)\n2) Escolha 1 escala (alterada/diminuta/tons inteiros)\n3) Faça frases curtas\n4) Resolva em notas fortes do acorde destino\n\nSem resolução, vira exercício — com resolução, vira música.\n",
@@ -3809,20 +4662,29 @@
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
   },
-
   {
     "id": "mis_daily_012",
     "type": "mission",
     "title": "15 min — Acorde do dia: arpejo + escala + 2 frases (com resolução)",
     "subtitle": "Transforme teoria em música. Simples e poderoso.",
     "cover": "",
-    "tags": ["arpejo", "escala", "frase", "resolução"],
+    "tags": [
+      "arpejo",
+      "escala",
+      "frase",
+      "resolução"
+    ],
     "level": "Intermediário",
     "category": "Base comum",
     "xp": 30,
     "repeat": "daily",
     "missionKind": "Teoria",
-    "steps": ["Escolha 1 acorde", "Toque arpejo", "Toque escala sugerida", "Crie 2 frases resolvendo"],
+    "steps": [
+      "Escolha 1 acorde",
+      "Toque arpejo",
+      "Toque escala sugerida",
+      "Crie 2 frases resolvendo"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
@@ -3833,16 +4695,24 @@
     "title": "12 min — II–V–I em 2 níveis (limpo e colorido)",
     "subtitle": "Mixolídio → tensões 9/13 → (opcional) dominante alterada.",
     "cover": "",
-    "tags": ["ii-V-I", "tensões", "prática"],
+    "tags": [
+      "ii-V-I",
+      "tensões",
+      "prática"
+    ],
     "level": "Avançado",
     "category": "Piano Popular",
     "xp": 30,
     "repeat": "daily",
     "missionKind": "Repertório",
-    "steps": ["Toque ii–V–I limpo", "Adicione 9/13", "Se estiver fácil, use subV7 ou alt", "Transponha 1 tom acima"],
+    "steps": [
+      "Toque ii–V–I limpo",
+      "Adicione 9/13",
+      "Se estiver fácil, use subV7 ou alt",
+      "Transponha 1 tom acima"
+    ],
     "version": 1,
     "createdAt": "2026-01-08T00:00:00.000Z",
     "updatedAt": "2026-01-08T00:00:00.000Z"
-  },
+  }
 ]
-
