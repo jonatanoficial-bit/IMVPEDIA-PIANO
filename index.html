@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>IMVpedia Piano — Piano Popular & Erudito</title>
+
+  <!-- PWA -->
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <meta name="theme-color" content="#FFB000" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <!-- APP ROOT -->
+  <div id="app">
+
+    <!-- TOPBAR -->
+    <header class="topbar glass">
+      <div class="topbar-left">
+        <div class="logo">🎹</div>
+        <div class="brand">
+          <div class="brand-title">IMVpedia Piano</div>
+          <div class="brand-subtitle">Piano Popular & Erudito</div>
+        </div>
+      </div>
+      <button id="adminBtn" class="btn ghost">Admin</button>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main id="view">
+      <!-- Conteúdo renderizado pelo app.js -->
+    </main>
+
+    <!-- TAB BAR -->
+    <nav class="tabbar glass">
+      <button class="tab-item" data-route="#/home">
+        <span class="icon">🏠</span>
+        <span class="label">Início</span>
+      </button>
+      <button class="tab-item" data-route="#/path">
+        <span class="icon">🧭</span>
+        <span class="label">Trilha</span>
+      </button>
+      <button class="tab-item" data-route="#/missions">
+        <span class="icon">🎯</span>
+        <span class="label">Missões</span>
+      </button>
+      <button class="tab-item" data-route="#/library">
+        <span class="icon">📚</span>
+        <span class="label">Biblioteca</span>
+      </button>
+      <button class="tab-item" data-route="#/profile">
+        <span class="icon">👤</span>
+        <span class="label">Perfil</span>
+      </button>
+    </nav>
+
+  </div>
+
+  <!-- TOAST -->
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="./app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js');
+      });
+    }
+  </script>
+</body>
+</html>
